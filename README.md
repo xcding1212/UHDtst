@@ -8,7 +8,7 @@ library(devtools)
 devtools::install_github("xcding1212/UHDtst/UHDtst")
 ```
 
-Users may also need to  https://www.bioconductor.org/packages/release/bioc/html/multtest.html
+Users may also need to install multtest from  https://www.bioconductor.org/packages/release/bioc/html/multtest.html 
 
 
 A user's guide can be found at 
