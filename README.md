@@ -1,6 +1,6 @@
 # UHDtst
 
-This is an R package used for estimation and simultaneous inference of nonlinear and nonstationary time series regression.  To install the package from Github, run:
+This is an R package used for two sample test for covariance matrices for ultra-high dimensional data sets.  To install the package from Github, run:
 
 ```
 library(devtools)
